@@ -1,6 +1,6 @@
 # Blog-API
 
-This application gives a set of RESTful APIs which are used by `**blog-web**`.
+This application gives a set of RESTful APIs which are used by `blog-web`.
 
 ### Version
 0.0.1
@@ -35,10 +35,10 @@ $ sails lift
 Blog-API is a sails app that runs of port 1338, so you can access the application on http://10.0.1.2:1338 (on vagrant) or on http://localhost:1338 (on local machine)
 
 ###Packages Installed
-[jade](http://jade-lang.com/) - Templating engine for your sails app
-[moment.js](http://momentjs.com/) - Date-time formatting
-[sails-mysql](https://github.com/balderdashy/sails-mysql) - MySQL adapter for Sails.js
-[passport](http://passportjs.org/) - authentication middleware for Node.js
-[bcrypt](https://www.npmjs.com/package/bcrypt) - Password hashing
-[sails-db-migrate](https://github.com/building5/sails-db-migrate) - db-migrate integration for your sails app
-[sails-hook-autoreload](https://github.com/sgress454/sails-hook-autoreload) - Sails JS hook to autoreload controllers, models and locales when changed.
+* [jade](http://jade-lang.com/) - Templating engine for your sails app
+* [moment.js](http://momentjs.com/) - Date-time formatting
+* [sails-mysql](https://github.com/balderdashy/sails-mysql) - MySQL adapter for Sails.js
+* [passport](http://passportjs.org/) - authentication middleware for Node.js
+* [bcrypt](https://www.npmjs.com/package/bcrypt) - Password hashing
+* [sails-db-migrate](https://github.com/building5/sails-db-migrate) - db-migrate integration for your sails app
+* [sails-hook-autoreload](https://github.com/sgress454/sails-hook-autoreload) - Sails JS hook to autoreload controllers, models and locales when changed.
